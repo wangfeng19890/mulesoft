@@ -1,8 +1,0 @@
-1、Anypoint Account is required
-
-
-2、saleforce 账号 superman@china.com  ^YHN6yhn  
-地址 https://ap5.lightning.force.com/one/one.app#/home
-
-
-salesforce API Token 安全标记（区分大小写）：gKP5N6vuNrrIPeYeLTnvVeYa
